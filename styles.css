@@ -1,0 +1,107 @@
+/* body {
+  margin: 0;
+}
+h1 {
+  margin-top: 0;
+} */
+/* h1:hover {
+  color: transparent;
+  text-decoration: overline white;
+  text-transform: uppercase;
+  background-color: transparent;
+} */
+
+body {
+  background-color: #bedcfa;
+  text-align: center;
+  font-family: "Dosis", sans-serif;
+  position: relative;
+}
+.top-container {
+  display: inline-block;
+  align-items: center;
+}
+h1 {
+  font-family: "Hanalei", cursive;
+  margin-top: 50px auto 0 auto;
+  font-size: 562.5%;
+  color: rgb(94, 108, 240);
+}
+h2 {
+  font-family: "Russo One", sans-serif;
+  color: #66bfbf;
+}
+h3 {
+  color: #11999e;
+}
+a {
+  color: #11999e;
+}
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.me {
+  width: 100px;
+  border-radius: 100px;
+}
+span {
+  font-weight: normal;
+  color: beige;
+}
+.skill-row {
+  background-color: #b3d5d6;
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 2;
+}
+.skill-row h3,
+p {
+  text-align: left;
+}
+.black {
+  float: left;
+  margin: auto 30px;
+  width: 300px;
+}
+.blue {
+  float: right;
+  margin: auto 30px;
+  width: 300px;
+  border-radius: 150px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  width: 100%;
+  height: 150px;
+  color: #11999e;
+
+  word-spacing: 5px;
+  margin: 15px auto;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: azure;
+}
+.bottom-container p {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+button {
+  background-color: #66bfbf;
+  border-style: none;
+  border-radius: 3px;
+  color: cornsilk;
+  width: 100px;
+}
+hr {
+  color: rgb(118, 119, 117);
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 35px;
+}
